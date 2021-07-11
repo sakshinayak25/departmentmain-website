@@ -1,0 +1,208 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+nav{
+    color: aqua;
+}
+nav a{
+    color: aqua;
+    text-decoration: none;
+    /* margin: 1rem; */
+    padding: 1rem;
+    /* margin: 1rem; */
+    /* padding: 1rem; */
+}
+nav a:hover{
+  background: aqua;
+  color: black;
+}
+.detail{
+    opacity: 0.5;
+   background: url('OIP\ \(20\).jpg')  no-repeat center/cover ;
+    height: 25rem;
+}
+.para{
+  /* background-color: skyblue; */
+  color: white;
+   margin-left:16rem ;
+   width: 70%;
+   margin-top: 3rem;
+}
+.para li{
+
+margin: 1rem;
+}  
+.h{
+    color: white;
+    margin-top:2rem;
+    text-align: center;
+}
+.card-body{
+    background-color: aqua;
+    height: 10rem;
+    text-align: center;
+}
+footer p{
+    margin-top:2rem;
+    text-align: center;
+    color: aliceblue;
+}
+footer div{
+    margin-top:3rem;
+    text-align: center;
+    color: aliceblue;
+}
+    
+.con{
+    margin-top:2rem;
+    text-align: center;
+    color: aliceblue;
+}
+    
+.size{
+    margin: 1rem;
+    width: 3rem;
+    height: 3rem;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    background: url('https://th.bing.com/th/id/OIP.9MeQ_H8YEptyfBt_x8Z53QHaEK?w=321&h=180&c=7&o=5&dpr=1.25&pid=1.7')
+    no-repeat  center/cover;
+}
+footer img{
+    border-radius:32px;
+}
+
+
+.cor{
+    color: white;
+  
+    justify-content: center;
+    align-items: center;
+    height: 36rem;
+    flex-direction: column;
+}
+.tb{
+    text-align: center;
+    /* margin-top: 2rem; */
+    width: 80%;
+    height: 20rem;
+   
+    /* background: rgb(245, 240, 240) ;
+    opacity: .3; */
+    
+}
+
+tr{
+    opacity: 1;
+    color: black;
+}
+
+.card1{
+width: 40%;
+/* margin-left: 13rem; */
+height: 28rem;
+}
+.containerx{
+    
+    justify-content: space-evenly;
+    margin-top: 3rem;
+}
+.top h1{
+   
+    color: white;
+    text-align: center;
+}
+.top{
+    margin-top: 3rem;
+}
+.corx{
+    /* background: url(''); */
+    height: 20rem;
+    border: 2px solid red;
+    color: white;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.cory{
+    /* background: url(''); */
+    height: 15rem;
+  /* background-color: crimson; */
+    color: white;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    border: 2px solid red;
+    align-items: center;
+}
+.flow p{
+    color: rgb(14, 13, 13);
+}
+.flow{
+    width: 30%;
+    
+}
+.btnx{
+    border: 2px solid rgb(29, 27, 27);
+    text-align: center;
+    border-radius: 12px;
+    color: rgb(4, 6, 10);
+    margin-left: 1rem;
+    width: 90%;
+}
+.btnn:hover{
+  background-color: gray;
+}
+.frm{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: white; */
+    height: 100vh;
+    
+
+}
+form{
+    display: flex;
+    opacity: 0.7;
+    background: rgb(207, 196, 194);
+    flex-direction: column;
+    height: 26rem;
+    width: 36rem;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.formdesign input {
+    width: 20rem;
+   
+    text-align: center;
+  
+    border-radius: 12px;
+   
+}
+.bt{
+    border-radius: 12px;
+    width: 28%;
+    text-align: center;
+}
+.bt:hover{
+    background: gray;
+    
+}
+.bt a{
+    text-decoration: none;
+    color: black;
+}
+.bt a:hover{
+    color: black;
+}
+.formerror{
+    color: red;
+}
